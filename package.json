@@ -1,0 +1,21 @@
+{
+  "name": "hd-keychain",
+  "version": "1.0.0",
+  "description": "Manage hierarchical deterministic keychain for bitcoin and altcoins.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bip39": "^2.4.0",
+    "block-hash": "^1.0.0",
+    "coinkey": "^2.0.0",
+    "crypto": "^1.0.1",
+    "hdkey": "^0.7.1"
+  }
+}
