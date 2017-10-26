@@ -1,12 +1,11 @@
 HD Keychain
 =====
 
-[![Build Status](https://travis-ci.org/ccxt-dev/hd-keychain.svg?branch=master)](https://travis-ci.org/ccxt-dev/hd-keychain) 
 [![npm](https://img.shields.io/npm/v/hd-keychain.svg)](https://npmjs.com/package/hd-keychain) 
 [![NPM Downloads](https://img.shields.io/npm/dm/hd-keychain.svg)](https://www.npmjs.com/package/hd-keychain) 
 [![Try on RunKit](https://badge.runkitcdn.com/hd-keychain.svg)](https://npm.runkit.com/hd-keychain)
 
-Manage hierarchical deterministic keychain for bitcoin and altercoins.
+Manage hierarchical deterministic keychain for bitcoin and altcoins.
 
 
 ## Installation
