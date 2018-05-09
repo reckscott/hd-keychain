@@ -1,6 +1,6 @@
 {
   "name": "hd-keychain",
-  "version": "1.0.0",
+  "version": "0.2.0",
   "description": "Manage hierarchical deterministic keychain for bitcoin and altcoins.",
   "main": "index.js",
   "directories": {
@@ -23,31 +23,17 @@
     "btc",
     "altcoin",
     "crypto currency",
-    "ethereum",
-    "eth",
-    "ripple",
-    "xrp",
     "bitcoin cash",
     "bch",
     "litecoin",
     "ltc",
-    "dash",
-    "dsh",
-    "nem",
-    "bitconnect",
-    "bcc",
-    "neo",
-    "monero",
-    "xmr",
-    "iota",
-    "iot",
-    "ethereum classic",
-    "etc"
+    "dash"
   ],
   "license": "MIT",
   "dependencies": {
     "bip39": "^2.4.0",
     "block-hash": "^1.0.0",
+    "coininfo": "^4.0.0",
     "coinkey": "^2.0.0",
     "crypto": "^1.0.1",
     "hdkey": "^0.7.1"
